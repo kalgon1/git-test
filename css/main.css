@@ -1,3 +1,10 @@
 body {
     background-color: blueviolet;
 }
+h2 {
+    color: #c42323;
+    font-size: 50px;
+}
+p { 
+    color: beige;
+}
